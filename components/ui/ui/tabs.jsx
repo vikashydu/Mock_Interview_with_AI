@@ -19,7 +19,7 @@ function Tabs({
 
 function TabsList({
   className,
-  ...props
+  ...props 
 }) {
   return (
     <TabsPrimitive.List
